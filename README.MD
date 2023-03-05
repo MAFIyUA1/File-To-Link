@@ -118,7 +118,7 @@ DATABASE_URL=mongodb_uri
   
 `OWNER_USERNAME` : U should be knowing it afterall it's your username dont remember ? it just go to settings!
 
-`OWNER_ID` : Your Telegram User ID
+`OWNER_ID` : Your Telegram User ID MAFIyUA1
 
 `DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can click on logo below!
 
