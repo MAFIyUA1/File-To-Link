@@ -19,7 +19,7 @@
 
 <b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
 
-## Up to 4GB files Supported ♥️
+## Up to 4GB files Supported ♥️.
 
 <p align='center'>
     This bot will give you stream links and fast download links for Telegram files without the need of waiting till the download completes
